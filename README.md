@@ -1,4 +1,4 @@
-# This repository has ML pipelines build for categorizing disaster related event messages as part of Disaster Response Pipeline Project for Udacity - Data Science Nanodegree
+This repository has ML pipelines build for categorizing disaster related event messages as part of Disaster Response Pipeline Project for Udacity - Data Science Nanodegree
 
 ## Table of Contents
 
